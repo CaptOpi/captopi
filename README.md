@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ahmed Khan</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on [Blood On The Clocktower and Stubhub Ticket Monitor](https://github.com/CaptOpi/Botc)
+- 🔭 I’m currently working on [Blood On The Clocktower](https://github.com/CaptOpi/Botc)
 
-- 🌱 I’m currently learning **AWS Cloud Computing, Kubernetes, Backend Development**
+- 🌱 I’m currently learning **AWS Cloud Computing, Kubernetes, and Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://akhan.netlify.app/](https://akhan.netlify.app/)
+- 👨‍💻 All of my projects are available at: [https://akhan.netlify.app/](https://akhan.netlify.app/)
 
-- 📫 How to reach me **ahmedkhan.ayk@gmail.com**
+- 📫 How to reach me: **ahmedkhan.ayk@gmail.com**
 
-- 📄 Know about my experiences [https://akhan.netlify.app/Ahmed_Khan_Resume.pdf](https://akhan.netlify.app/Ahmed_Khan_Resume.pdf)
+- 📄 Know about my experiences: [Resume](https://akhan.netlify.app/Ahmed_Khan_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
